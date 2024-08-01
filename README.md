@@ -27,7 +27,7 @@ This procedure hits on the main ideas but not every detail.
 8) Finally we apply the projection matrix onto the matrix $C$ (eigenvectors of redside) in order to predict the eigenvectors of the combined spectrum. Then this is used to predict the combined spectrum.
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/74601121-e4a8-4a03-aa3a-6134d00ea077" alt="Description" width="600"/>
+    <img src="https://github.com/user-attachments/assets/f4136597-7d72-4d48-b3bd-b17d583e1256" alt="Description" width="600"/>
 </p>
 <p align="center">Figures 2. Left panel shows the hand-picked continuum (red) and the PCA continuum (black) prediction. The continuum ratio, hand-picked over PCA, is shown in the right panel. Clearly the models don't align too well as they differ significantly in some regions.  </p>
 
